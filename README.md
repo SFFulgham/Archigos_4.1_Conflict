@@ -1,6 +1,6 @@
 ## Data Cleaning and Analysis of the Archigos: A Data Set on Leaders 1875-2015 Version 4.1
 
-This is an EDA of the Archigos 4.1 dataset, which covers political leader transitions from 1875 - 2015. In this data set, I was interested in the relationship between how a leader entered power (election, war, coup, etc) and how they left power (peacefully, war, coup etc.)
+This is an EDA of the Archigos 4.1 dataset, which covers political leader transitions from 1875 - 2015. In this data set, I was interested in the relationship between how a leader entered power (election, war, coup, etc.) and how they left power (peacefully, war, coup etc.).
 
 ## Motivation 
 I am developing data cleaning and analytic skills with conflict data to answer public focusd questions. 
